@@ -19,7 +19,7 @@
   }
 </style>
 
-<h1>Level Up Music</h1>
+<h1>Video Games Quiz</h1>
 <div>
   <Quiz />
 </div>
