@@ -40,7 +40,7 @@
   }
 
   // Reactive Statement
-  $: if ($score > 7) {
+  $: if ($score > 1) {
     isModalOpen = true;
   }
 
